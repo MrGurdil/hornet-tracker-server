@@ -16,4 +16,4 @@ We use [SemVer](http://semver.org/) for versioning.
 ## Authors
 
 * **Dr Maxime Dupuis** - *Concept*
-* **David Monget** - *Initial work* - [MrGurdil](https://bitbucket.org/MrGurdil/)
+* **David Monget** - *Initial work* - [MrGurdil](https://github.com/MrGurdil/)
